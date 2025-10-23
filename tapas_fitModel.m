@@ -409,7 +409,7 @@ if isfield(r.c_opt, 'nRandInit') && r.c_opt.nRandInit > 0
         if isnan(r.c_opt.seedRandInit)
             rng('shuffle');
         else
-            rng(r.c_opt.seedRandInit)
+            rng(r.c_opt.seedRandInit(i))
         end
         init(opt_idx) = init(opt_idx) + randn(1,length(optsds)).*optsds;
 
