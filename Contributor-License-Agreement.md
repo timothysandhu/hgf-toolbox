@@ -28,6 +28,7 @@ Anna Yurova              | LMU University Hospital            | Munich    | GER 
 Irene Sophia Plank       | LMU University Hospital            | Munich    | GER     | IreneSophia            | 1.1
 Imre Kertesz             | TNU, University of Zurich          | Zurich    | CH      | ImreKertesz            | 1.1
 Tim Sandhu               | Univeristy of Cambridge            | Cambridge | UK      | timothysandhu          | 1.1
+Bowen (Eddie) Xiao       | Univeristy of Cambridge            | Cambridge | UK      | EddieBWXiao            | 1.1
 **- Add Entry here -**   | **- Add Entry here -**             | **Add**   | **Add** | **Add**                | 1.1
 
 (hereinafter referred to as "Contributor")
