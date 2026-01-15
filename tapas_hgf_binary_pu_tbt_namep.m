@@ -10,7 +10,6 @@ function pstruct = tapas_hgf_binary_pu_tbt_namep(pvec)
 
 pstruct = struct;
 
-%l = (length(pvec)+1)/5; % original, but should take 2 off for the etas
 l = (length(pvec)-1)/5;
 
 if l ~= floor(l)

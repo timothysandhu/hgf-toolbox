@@ -22,7 +22,6 @@ res  = NaN(n,1);
 
 % Predictions or posteriors?
 if strcmp(r.c_prc.model,'tapas_rw_binary')
-    % mu = tapas_sgm(infStates(:,1), 1);
     mu = infStates(:,1);
 else
     mu = infStates(:,1,1); % Default: predictions (ie, mu1hat)
